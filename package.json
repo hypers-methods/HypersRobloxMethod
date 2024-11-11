@@ -1,0 +1,23 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "basic-auth": "^2.0.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.0",
+    "express-session": "^1.18.1",
+    "http-proxy": "^1.18.1",
+    "http-proxy-middleware": "^3.0.2",
+    "puppeteer": "^23.7.0",
+    "puppeteer-core": "^23.7.0"
+  }
+}
